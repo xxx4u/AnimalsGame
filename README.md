@@ -1,4 +1,4 @@
 Animal's Game
 ===========
 
-A game for children with animals and sounds. 
+An android game for children with animals and sounds. 
